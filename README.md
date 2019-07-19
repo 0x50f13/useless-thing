@@ -12,4 +12,4 @@ This network was tested on LunarLanderContinous-v2 from gym library. On average 
 
 # Running 
 ` python rl1.py ` <br>
-**NOTICE**: ` gym ` library is required to run. 
+**NOTICE**: ` gym ` and ` Box2D` libraries are required to run. Python version>=3.6
